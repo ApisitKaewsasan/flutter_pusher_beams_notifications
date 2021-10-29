@@ -1,6 +1,6 @@
 # pusher_beams_notifications
 
-A new Flutter project.
+ - support null safety
 
 ## Getting Started
 
